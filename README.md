@@ -4,7 +4,7 @@
 - 3주 동안의 히스토리를 깃허브에 기록할려고 합니다. 
 - 챌린지에 대한 내용은 아래 참고해주세요.
 - day1은 파이썬으로 진행했고 나머지 요일은 자바로 진행했습니다.
-- [블로그](https://gbr7780.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) 클릭하시면 블로그에 챌린지별 풀이를 작성했습니다.
+- [블로그](https://gbr7780.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%2C%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) 클릭하시면 챌린지별 풀이를 작성했습니다.
 
 ## ✅ 챌린지 진행방식
 ### 진행 방식
