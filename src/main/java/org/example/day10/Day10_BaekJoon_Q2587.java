@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 
 /**
- * description    :
+ * description    : 백준 2587 - 대표값2
  * packageName    : org.example.day10
  * fileName        : Day10_BaekJoon_Q2587
  * author         : kimjongha
